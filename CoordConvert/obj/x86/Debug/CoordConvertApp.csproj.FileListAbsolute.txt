@@ -1,0 +1,17 @@
+D:\空间信息科学\GPS\CoordConvert\CoordConvert\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\空间信息科学\GPS\CoordConvert\CoordConvert\bin\Debug\CoordConvertApp.exe
+D:\空间信息科学\GPS\CoordConvert\CoordConvert\bin\Debug\CoordConvertApp.pdb
+D:\空间信息科学\GPS\CoordConvert\CoordConvert\bin\Debug\CoordConvert.dll
+D:\空间信息科学\GPS\CoordConvert\CoordConvert\bin\Debug\CoordConvert.pdb
+D:\空间信息科学\GPS\CoordConvert\CoordConvert\obj\x86\Debug\CoordConvertApp.exe
+D:\空间信息科学\GPS\CoordConvert\CoordConvert\obj\x86\Debug\CoordConvertApp.pdb
+D:\3S\GPS\CoordConvert\CoordConvert\obj\x86\Debug\CoordConvertApp.exe
+D:\3S\GPS\CoordConvert\CoordConvert\obj\x86\Debug\CoordConvertApp.pdb
+D:\3S\GPS\CoordConvert\CoordConvert\bin\Debug\CoordConvertApp.exe
+D:\3S\GPS\CoordConvert\CoordConvert\bin\Debug\CoordConvertApp.pdb
+D:\3S\GPS\CoordConvert\CoordConvert\bin\Debug\CoordConvert.dll
+D:\3S\GPS\CoordConvert\CoordConvert\bin\Debug\CoordConvert.pdb
+D:\3S\GPS\CoordConvert\CoordConvert\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\3S\GPS\CoordConvert\CoordConvert\obj\x86\Debug\CoordConvertApp.CalFourPara.resources
+D:\3S\GPS\CoordConvert\CoordConvert\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\3S\GPS\CoordConvert\CoordConvert\obj\x86\Debug\GenerateResource.write.1.tlog

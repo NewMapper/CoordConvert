@@ -1,0 +1,10 @@
+D:\空间信息科学\GPS\CoordConvert\CoordConvertDLL\obj\Debug\ResolveAssemblyReference.cache
+D:\空间信息科学\GPS\CoordConvert\CoordConvertDLL\bin\Debug\CoordConvert.dll
+D:\空间信息科学\GPS\CoordConvert\CoordConvertDLL\bin\Debug\CoordConvert.pdb
+D:\空间信息科学\GPS\CoordConvert\CoordConvertDLL\obj\Debug\CoordConvert.dll
+D:\空间信息科学\GPS\CoordConvert\CoordConvertDLL\obj\Debug\CoordConvert.pdb
+D:\3S\GPS\CoordConvert\CoordConvertDLL\bin\Debug\CoordConvert.dll
+D:\3S\GPS\CoordConvert\CoordConvertDLL\bin\Debug\CoordConvert.pdb
+D:\3S\GPS\CoordConvert\CoordConvertDLL\obj\Debug\ResolveAssemblyReference.cache
+D:\3S\GPS\CoordConvert\CoordConvertDLL\obj\Debug\CoordConvert.dll
+D:\3S\GPS\CoordConvert\CoordConvertDLL\obj\Debug\CoordConvert.pdb
